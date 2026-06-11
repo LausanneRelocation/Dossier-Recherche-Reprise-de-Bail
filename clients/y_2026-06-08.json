@@ -154,19 +154,19 @@
   "dossierDates": [],
   "liens": [],
   "simuResult": null,
-  "savedAt": "2026-06-11T16:41:02.337Z",
+  "savedAt": "2026-06-11T16:46:42.054Z",
   "simulations": [
     {
       "params": [
-        "🏠 Loyer : CHF 1'550/mois",
-        "💰 Revenus : CHF 5'462/mois",
-        "🛡 Garant : CHF 6'991/mois"
+        "🏠 Loyer : CHF 1 550/mois",
+        "💰 Revenus : CHF 5 462/mois",
+        "🛡 Garant : CHF 6 991/mois"
       ],
-      "paramsHTML": "🏠 Loyer : CHF 1'550/mois<br>💰 Revenus : CHF 5'462/mois<br>🛡 Garant : CHF 6'991/mois",
+      "paramsHTML": "🏠 Loyer : CHF 1 550/mois<br>💰 Revenus : CHF 5 462/mois<br>🛡 Garant : CHF 6 991/mois",
       "scoreClass": "orange",
-      "scoreText": "🟠 Dossier ajustable — mandat possible avec conditions✅ Ratio 28% — règle du 1/3 respectée  ·  ✅ Garant solvable (CHF 6'991/mois)  ·  ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuserPoints restants : ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuser",
+      "scoreText": "🟠 Dossier ajustable — mandat possible avec conditions✅ Ratio 28% — règle du 1/3 respectée  ·  ✅ Garant solvable (CHF 6 991/mois)  ·  ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuserPoints restants : ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuser",
       "date": "11.06.2026",
-      "name": "Avec garant CHF 6'991"
+      "name": "Avec garant CHF 6 991"
     }
   ]
 }
