@@ -188,7 +188,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T18:29:22.032Z",
+  "savedAt": "2026-06-13T18:30:16.546Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -232,7 +232,7 @@
     "chk_gar_ent_lettre": false,
     "chk_gar_ent_id_dir": false,
     "chk_gar_ent_contact": false,
-    "chk_pdf": false,
+    "chk_pdf": true,
     "chk_ref_bailleur": false
   }
 }
