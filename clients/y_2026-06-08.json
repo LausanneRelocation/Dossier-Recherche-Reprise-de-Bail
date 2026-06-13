@@ -141,7 +141,7 @@
     "i_ref_budget": true,
     "i_ref_autre": false
   },
-  "statut": "vert",
+  "statut": "",
   "stars": {
     "0": 3,
     "3": 3,
@@ -168,5 +168,5 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T15:01:49.306Z"
+  "savedAt": "2026-06-13T15:07:17.525Z"
 }
