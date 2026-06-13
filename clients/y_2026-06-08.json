@@ -185,7 +185,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T17:38:56.263Z",
+  "savedAt": "2026-06-13T17:40:53.603Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -196,14 +196,14 @@
     "g2_type": ""
   },
   "checklist": {
-    "chk_id": false,
-    "chk_poursuites": false,
-    "chk_formulaire": false,
-    "chk_motivation": false,
-    "chk_rc_prive": false,
-    "chk_sal_fiches": false,
-    "chk_sal_contrat": false,
-    "chk_sal_attestation": false,
+    "chk_id": true,
+    "chk_poursuites": true,
+    "chk_formulaire": true,
+    "chk_motivation": true,
+    "chk_rc_prive": true,
+    "chk_sal_fiches": true,
+    "chk_sal_contrat": true,
+    "chk_sal_attestation": true,
     "chk_ind_bilans": false,
     "chk_ind_rc": false,
     "chk_ind_avs": false,
