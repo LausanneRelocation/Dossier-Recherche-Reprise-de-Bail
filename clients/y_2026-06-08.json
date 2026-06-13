@@ -185,7 +185,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T16:35:36.327Z",
+  "savedAt": "2026-06-13T16:36:39.045Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -216,12 +216,12 @@
     "chk_etu_bourse": false,
     "chk_etu_permis": false,
     "chk_etu_poursuites_pays": false,
-    "chk_gar_id": false,
-    "chk_gar_fiches": false,
+    "chk_gar_id": true,
+    "chk_gar_fiches": true,
     "chk_gar_poursuites": false,
-    "chk_gar_contrat": false,
-    "chk_gar_attestation": false,
-    "chk_gar_permis": false,
+    "chk_gar_contrat": true,
+    "chk_gar_attestation": true,
+    "chk_gar_permis": true,
     "chk_gar_ent_rc": false,
     "chk_gar_ent_bilan": false,
     "chk_gar_ent_exploit": false,
