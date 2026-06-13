@@ -1,6 +1,9 @@
 {
   "nom": "Yasmina Boros",
   "provenance": "facebook",
+  "garantTypeRev": "aucun",
+  "garantTypeExp": "aucun",
+  "garantTypeEtu": "aucun",
   "date": "2026-06-08",
   "budget": "1550",
   "notes": "",
@@ -185,7 +188,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T17:40:53.603Z",
+  "savedAt": "2026-06-13T17:57:11.687Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
