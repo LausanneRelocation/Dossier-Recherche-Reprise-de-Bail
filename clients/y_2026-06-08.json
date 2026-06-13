@@ -1,5 +1,6 @@
 {
   "nom": "Yasmina Boros",
+  "provenance": "",
   "date": "2026-06-08",
   "budget": "1550",
   "notes": "",
@@ -157,7 +158,7 @@
     "i_ref_budget": true,
     "i_ref_autre": false
   },
-  "statut": "",
+  "statut": "vert",
   "stars": {
     "0": 3,
     "3": 3,
@@ -184,7 +185,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-13T16:26:09.015Z",
+  "savedAt": "2026-06-13T16:34:07.702Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
