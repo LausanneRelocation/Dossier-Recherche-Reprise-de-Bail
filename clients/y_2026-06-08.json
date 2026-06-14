@@ -1,7 +1,7 @@
 {
   "nom": "Yasmina Boros",
   "provenance": "facebook",
-  "garantTypeRev": "particulier",
+  "garantTypeRev": "aucun",
   "garantTypeExp": "aucun",
   "garantTypeEtu": "aucun",
   "date": "2026-06-08",
@@ -191,10 +191,10 @@
       "scoreText": "🟠 Dossier ajustable — mandat possible avec conditions✅ Ratio 28% — règle du 1/3 respectée  ·  ✅ Garant solvable (CHF 6'992/mois)  ·  ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuserPoints restants : ⚠️ Actes de défaut — garant atténue mais régie peut quand même refuser",
       "date": "14.06.2026",
       "name": "Avec garant CHF 6'992",
-      "applied": true
+      "applied": false
     }
   ],
-  "savedAt": "2026-06-14T20:20:25.833Z",
+  "savedAt": "2026-06-14T20:31:21.511Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
