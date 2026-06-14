@@ -151,7 +151,7 @@
     "i_situation": "ok",
     "i_urgence": "flex",
     "i_menage": "Colocation",
-    "i_animal": "",
+    "i_animal": "non",
     "i_notes": "Yasmina et sa maman souhaitaient initialement obtenir un logement subventionné. Cependant, cela n'est malheureusement pas possible dans leur situation. Pour l'attribution d'un logement subventionné de 3,5 pièces, l'unité familiale concernée doit répondre à certains critères, notamment en matière de composition du ménage.\n\nÂgée de 34 ans, Yasmina est considérée, au regard des règles applicables aux logements à loyer modéré (LLM), comme une personne indépendante. Dès lors, Yasmina et sa maman sont assimilées à une colocation et non à un ménage familial éligible à l'attribution d'un 3,5 pièces subventionné. C'est pour cette raison que nos recherches sont désormais orientées vers le marché locatif libre.",
     "i_ref_rev": false,
     "i_ref_pours": true,
@@ -193,7 +193,7 @@
       "name": "Avec garant CHF 6'991"
     }
   ],
-  "savedAt": "2026-06-14T09:19:43.971Z",
+  "savedAt": "2026-06-14T09:21:36.870Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": true,
