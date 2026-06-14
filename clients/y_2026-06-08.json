@@ -194,7 +194,7 @@
       "applied": true
     }
   ],
-  "savedAt": "2026-06-14T17:23:45.323Z",
+  "savedAt": "2026-06-14T17:46:48.290Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": true,
@@ -204,6 +204,7 @@
     "g1_type": "",
     "g2_type": ""
   },
+  "rechercheAnnonces": {},
   "checklist": {
     "chk_id": true,
     "chk_poursuites": true,
