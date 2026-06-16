@@ -189,7 +189,7 @@
       "applied": true
     }
   ],
-  "savedAt": "2026-06-16T06:28:46.858Z",
+  "savedAt": "2026-06-16T14:05:46.275Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -199,5 +199,42 @@
     "g1_type": "",
     "g2_type": ""
   },
-  "rechercheAnnonces": {}
+  "rechercheAnnonces": {},
+  "checklist": {
+    "chk_id": true,
+    "chk_poursuites": true,
+    "chk_formulaire": true,
+    "chk_motivation": true,
+    "chk_rc_prive": true,
+    "chk_sal_fiches": false,
+    "chk_sal_contrat": false,
+    "chk_sal_attestation": false,
+    "chk_ind_bilans": false,
+    "chk_ind_rc": false,
+    "chk_ind_avs": false,
+    "chk_exp_permis": false,
+    "chk_exp_contrat": false,
+    "chk_exp_fiches": false,
+    "chk_exp_poursuites_pays": false,
+    "chk_exp_lettre_emp": false,
+    "chk_etu_inscription": false,
+    "chk_etu_bourse": false,
+    "chk_etu_permis": false,
+    "chk_etu_poursuites_pays": false,
+    "chk_gar_id": false,
+    "chk_gar_fiches": false,
+    "chk_gar_poursuites": false,
+    "chk_gar_contrat": false,
+    "chk_gar_attestation": false,
+    "chk_gar_permis": false,
+    "chk_gar_ent_rc": false,
+    "chk_gar_ent_bilan": false,
+    "chk_gar_ent_exploit": false,
+    "chk_gar_ent_fisc": false,
+    "chk_gar_ent_lettre": false,
+    "chk_gar_ent_id_dir": false,
+    "chk_gar_ent_contact": false,
+    "chk_pdf": false,
+    "chk_ref_bailleur": false
+  }
 }
