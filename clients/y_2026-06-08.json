@@ -189,7 +189,7 @@
       "applied": true
     }
   ],
-  "savedAt": "2026-06-16T14:25:52.656Z",
+  "savedAt": "2026-06-16T14:55:09.010Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -201,14 +201,14 @@
   },
   "rechercheAnnonces": {},
   "checklist": {
-    "chk_id": false,
-    "chk_poursuites": false,
-    "chk_formulaire": false,
-    "chk_motivation": false,
-    "chk_rc_prive": false,
-    "chk_sal_fiches": false,
-    "chk_sal_contrat": false,
-    "chk_sal_attestation": false,
+    "chk_id": true,
+    "chk_poursuites": true,
+    "chk_formulaire": true,
+    "chk_motivation": true,
+    "chk_rc_prive": true,
+    "chk_sal_fiches": true,
+    "chk_sal_contrat": true,
+    "chk_sal_attestation": true,
     "chk_ind_bilans": false,
     "chk_ind_rc": false,
     "chk_ind_avs": false,
@@ -234,7 +234,7 @@
     "chk_gar_ent_lettre": false,
     "chk_gar_ent_id_dir": false,
     "chk_gar_ent_contact": false,
-    "chk_pdf": false,
-    "chk_ref_bailleur": false
+    "chk_pdf": true,
+    "chk_ref_bailleur": true
   }
 }
