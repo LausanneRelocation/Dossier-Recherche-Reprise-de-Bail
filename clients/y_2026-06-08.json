@@ -189,7 +189,7 @@
       "applied": true
     }
   ],
-  "savedAt": "2026-06-17T13:53:15.072Z",
+  "savedAt": "2026-06-17T14:15:14.605Z",
   "profilType": "salarie",
   "etudiantChecks": {
     "s2_actif": false,
@@ -202,9 +202,9 @@
   "rechercheAnnonces": {},
   "checklist": {
     "chk_id": true,
-    "chk_poursuites": false,
-    "chk_formulaire": false,
-    "chk_motivation": false,
+    "chk_poursuites": true,
+    "chk_formulaire": true,
+    "chk_motivation": true,
     "chk_rc_prive": false,
     "chk_sal_fiches": false,
     "chk_sal_contrat": false,
